@@ -1,5 +1,5 @@
 # IBMGAJAVA
-## Generative AI for Java and Spring Developers Specialization
+## IBM Generative AI for Java and Spring Developers Specialization
 
 Generative AI skills boost tech salaries by up to 50 percent (CIO Dive). Java developers with strong AI skills are in-demand!
 
